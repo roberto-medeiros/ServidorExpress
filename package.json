@@ -1,7 +1,7 @@
 {
   "name": "servidor_nodejs",
   "version": "1.0.0",
-  "description": "aplicação de estudo nodejs",
+  "description": "aplicação de estudo nodejs-Express",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
